@@ -1,0 +1,23 @@
+{
+  "name": "@tuluffy/promise-pool",
+  "version": "1.0.0",
+  "description": "promise pool：Scheduling requests, specifying the number of concurrent requests, and reducing the pressure on target services",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "jest",
+    "prepublish": "npm run build",
+    "build": "tsc"
+  },
+  "keywords": [
+    "promise",
+    "node"
+  ],
+  "author": "tuluffy@163.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^28.1.6",
+    "ts-jest": "^28.0.6",
+    "typescript": "^4.7.4"
+  }
+}

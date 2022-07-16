@@ -14,10 +14,17 @@
     "node"
   ],
   "author": "tuluffy@163.com",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/jest": "^28.1.6",
     "ts-jest": "^28.0.6",
     "typescript": "^4.7.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuluffy/promise-pool"
+  },
+  "bugs": {
+    "url": "https://github.com/tuluffy/promise-pool/issues"
   }
 }

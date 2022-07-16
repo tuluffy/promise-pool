@@ -4,13 +4,13 @@
 specifying the number of concurrent requests, and reducing the pressure on target services.
 
 ## Installation
-######Using npm/yarn:
+#### Using npm/yarn:
 ```shell
 npm install @tuluffy/promise-pool --save
 ```
 
-##How to use
-###test example
+## How to use
+#### test example
 ```javascript
 const fn1 = () => new Promise((resolve, reject) => {
 	setTimeout(() => {
@@ -36,7 +36,7 @@ const fn4 = () => new Promise((resolve, reject) => {
 	}, 500);
 });
 ```
-###use in project
+#### use in project
 ```javascript
 import promisePool from '@tuluffy/promise-pool';
 
@@ -61,5 +61,5 @@ dispatch(fn3);
 dispatch(fn4);
 ```
 
-##Follow Up
-####[Why should I make this tool?]()
+## Follow Up
+#### [Why should I make this tool?]()

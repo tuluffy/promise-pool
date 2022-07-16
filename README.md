@@ -62,4 +62,4 @@ dispatch(fn4);
 ```
 
 ## Follow Up
-#### [Why should I make this tool?]()
+#### [Why should I make this tool?](https://mp.weixin.qq.com/s/_rbXzuODCtQIP6nafpFi8A)

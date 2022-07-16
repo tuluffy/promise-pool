@@ -1,6 +1,6 @@
 {
   "name": "@tuluffy/promise-pool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "promise pool：Scheduling requests, specifying the number of concurrent requests, and reducing the pressure on target services",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",

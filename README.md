@@ -61,5 +61,10 @@ dispatch(fn3);
 dispatch(fn4);
 ```
 
+## Change Log
+### 1.0.1 (July 16, 2022)
+
+- adjustment readme；
+
 ## Follow Up
 #### [Why should I make this tool?](https://mp.weixin.qq.com/s/_rbXzuODCtQIP6nafpFi8A)
